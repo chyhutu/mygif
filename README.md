@@ -1,0 +1,3 @@
+mygif
+good good
+=====
