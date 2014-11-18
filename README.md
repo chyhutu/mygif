@@ -1,3 +1,0 @@
-mygif
-good good
-=====
